@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPICICDTest", "WebAPICICDTest\WebAPICICDTest.csproj", "{EC0475A9-1C7F-47C0-BF0E-3FEFC3EB632E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPICICDTest.Tests", "WebAPICICDTest.Tests\WebAPICICDTest.Tests.csproj", "{13B5CE52-87CF-4017-9B94-36A1DD177CD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B7CBC9CF-A756-4538-8893-686ED0715DE9}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0475A9-1C7F-47C0-BF0E-3FEFC3EB632E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0475A9-1C7F-47C0-BF0E-3FEFC3EB632E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0475A9-1C7F-47C0-BF0E-3FEFC3EB632E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0475A9-1C7F-47C0-BF0E-3FEFC3EB632E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B5CE52-87CF-4017-9B94-36A1DD177CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B5CE52-87CF-4017-9B94-36A1DD177CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B5CE52-87CF-4017-9B94-36A1DD177CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B5CE52-87CF-4017-9B94-36A1DD177CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53D7647E-99BA-44AB-A888-87CC5181CB09}
+	EndGlobalSection
+EndGlobal
